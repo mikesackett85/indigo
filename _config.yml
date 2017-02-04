@@ -12,11 +12,11 @@ picture: indigo/assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://mikesackett85/indigo
+url: https://mikesackett85.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -38,7 +38,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,7 +51,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: mikesackett.85@gmail.com
 
 authors:
     johndoe:
