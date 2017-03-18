@@ -37,21 +37,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: msackett04
+# facebook: msackett04
 # twitter: mytwitter
-google: MichaelSackett85
+# google: MichaelSackett85
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mikesackett85
+# github: mikesackett85
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: mikesackett.85
+# email: mikesackett.85
 
 authors:
     johndoe:
