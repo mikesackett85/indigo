@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<p></p>
+
 <p>Hello!  My name is Mike Sackett, I am learning how to hack (for good) so that I can do my part to help make the web a safer place!  I recently earned my B.S. in Cybersecurity and work as a Helpdesk Technician for a small firm in Syracuse, New York.  I am hoping to someday break into the exciting field of cyber security (easier said than done), am currently working towards my Security+ certification, and have enrolled in HackerOne in hopes of becoming a successful bug bounty hunter.</p>
 
 <p>Basically, I am pretty much a nobody and there is no good reason to read my blog.  Unless of course, you are interested in doing the same thing, or you're simply in it for the lulz and are looking for someone to troll (I'll take it!).  All kidding aside, I am excited to take you all on my journey to learn the art of hacking and hope you enjoy the show.</p>
