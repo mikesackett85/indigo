@@ -4,43 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello!  My name is Mike Sackett,I am learning how to hack (for good) so that I can do my part to help make the web a safer place!  I recently earned my B.S. in Cybersecurity and work as a Helpdesk Technician for a small firm in Syracuse, New York.  I am hoping to someday break into the exciting field of cyber security (easier said than done), I am currently working towards my Security+ certification and have enrolled in HackerOne in hopes of becoming a successful bug bounty hunter.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Basically, I am pretty much a nobody and there is no good reason to read my blog.  Unless of course, you are interested in doing the same thing, or you're simply in it for the lulz and are looking for someone to troll (I'll take it!)  All kidding aside, I am excited to take you all on my journey to learn the art of hacking and hope you enjoy the show.</p>
 
-<h2>Skills</h2>
+<p>If you are looking for tutorials on how to hack your significant others social media accounts or your neighbors WiFi then you've come to the wrong place, this blog is strictly of the white hat variety and I will not help you with any such request!  Remember, with great power comes great responsibility! (Spiderman Quote, yes!!!)</p> 
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>If you would like to get a hold of me to tell me how much you enjoy my blog (or troll me on social media) then feel free to click on the links to my social accounts and email below</p>
