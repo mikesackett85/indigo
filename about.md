@@ -10,4 +10,4 @@ layout: page
 
 <p>If you are looking for tutorials on how to hack your significant others social media accounts or your neighbors WiFi then you've come to the wrong place, this blog is strictly of the white hat variety and I will not help you with any such request!  Remember, with great power comes great responsibility! (Spiderman Quote, yes!!!)</p> 
 
-<p>If you would like to get a hold of me to tell me how much you enjoy my blog (or troll me on social media) then feel free to click on the links to my social accounts and email below</p>
+<p>If you would like to get a hold of me to tell me how much you enjoy my blog (or troll me on social media) then feel free to click on the links to my social accounts and email on my home page</p>
