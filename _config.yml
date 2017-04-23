@@ -3,8 +3,7 @@ name: Mike Sackett
 bio: Coming Soon
 
 # twitter summary info
-description: Learning to hack - The Noob Chronicles
-
+description: My tech blog about hardware, Linux, Chrome OS, and anything else I find interesting.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -51,7 +50,7 @@ github: mikesackett85
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: mikesackett.85
+email: mikesacket.85
 
 authors:
     johndoe:
