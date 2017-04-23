@@ -5,6 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+
 <h2>About Me</h2>
 
 <p>Hello!  My name is Mike Sackett, welcome to my tech blog!  I don't want to talk about myself too much so I'll keep this section short.  First and foremost, I am a nerd! I enjoy doing nerdy things with computers, on both the hardware and software side.  I am a Linux (GNU/Linux for the anal retentive) and Chrome OS fan, and also enjoy occasionally programming when the mood strikes.</p>
@@ -27,3 +28,13 @@ This blog is essentially a place for me to talk about different projects I am wo
 <h2>The Hardware</h2>
 
 <p>My hardware collection currently consists of my trusty 2013 Chromebook Pixel and a Raspberry Pi Model B.  I have also just started purchasing parts for my very first PC build (what kind of self-respecting nerd hasn't built a PC before?), which I will discuss in future blog posts and update on here once the build is complete.</p>
+
+---
+
+<h3>My 2013 Pixel</h3>
+
+![My 2013 Chromebook Pixel](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/photos/Pixel.jpeg?raw=true)
+
+<h3>My Raspberry Pi Model B</h3>
+![My Raspberry Pi Model B](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/photos/rPI.jpeg?raw=true)
+
