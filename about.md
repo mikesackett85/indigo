@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-<h1>Mike's Tech Blog</h1>
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
