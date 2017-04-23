@@ -15,10 +15,7 @@ layout: page
 <ul>
 <li>I have a BS in Cybersecurity</li>
 <li>I live in upstate New York with my wife, 2 dogs and 2 cats.</li>
-<li>I work as a helpdesk technician for a small firm in Syracuse, New York</li>
-<li>Blah blah blah</li>
-</ul>
-
+<li>I work as a helpdesk technician for a small firm in Syracuse, New York</li></ul>
 <h2>About this blog</h2>
 
 This blog is essentially a place for me to talk about different projects I am working on and my experiences while working on those projects, the hardware and software that I'm currently using, and any other technology-related topics that I find interesting. 
