@@ -8,7 +8,7 @@ layout: page
 
 <h2>About Me</h2>
 
-<p>Hey everyone!  My name is Mike Sackett, welcome to my blog!  I don't want to talk about myself too much here, so I'll keep this section short and sweet.  First and foremost, I am a nerd!  I am a Linux (or GNU/Linux for those who prefer that term) and Chrome OS enthusiast, casual programmer, tech buff, and overall super nice guy.
+<p>Hey everyone!  My name is Mike Sackett, welcome to my blog!  I don't want to talk about myself too much here, so I'll keep this section short and sweet.  First and foremost, I am a nerd!  I am a Chrome OS and Linux (or GNU/Linux for those who prefer that term) enthusiast, casual programmer/web developer, tech buff, and overall just a super nice guy.
 </p>
 
 <H3>Other Deets</H3> 
