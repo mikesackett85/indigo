@@ -31,10 +31,10 @@ This blog is essentially a place for me to talk about various technology-related
 
 <h4 align="center">2013 Chromebook Pixel</h4>
 
-![2013 Chromebook Pixel](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/photos/Pixel.jpeg?raw=true)
+![2013 Chromebook Pixel](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/assets/images/Pixel.jpeg?raw=true)
 
 <h4 align="center">Raspberry Pi Model B</h4>
-![Raspberry Pi Model B](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/photos/rPI.jpeg?raw=true)
+![Raspberry Pi Model B](https://github.com/mikesackett85/mikesackett85.github.io/blob/master/assets/images/rPI.jpeg?raw=true)
 
 ***
 
